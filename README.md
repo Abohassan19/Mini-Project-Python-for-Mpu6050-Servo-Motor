@@ -44,3 +44,4 @@ Servo Motor.
 Keyboard and Mouse.
 Screen or LCD.
 
+Link to trial Video : https://drive.google.com/file/d/1NxxhI4pp12hGVc7G-3QvEobcQ61rng17/view?usp=sharing
