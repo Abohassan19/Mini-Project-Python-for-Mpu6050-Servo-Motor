@@ -29,7 +29,7 @@ Second you install the libraries mentioned above by these commands in teminal:
 if these libraries are installed,there is no need to reinstall them.
 
 Third clone the code from github by this command in terminal:
-"git clone https...."
+"git clone https://github.com/Abdelrahman-bedier/Mini-Project-Python-for-Mpu6050-Servo-Motor"
 
 Forth open folder UninterruptedAngleMeter and run the file AngleOMeter.py by command : "python AngleOMeter.py" into the terminal of vscode.
 
