@@ -2,9 +2,9 @@
 This is a mini project for using MPU 6050 sensor to get Pitch and roll angles and apply them on Servo motor using Raspberry pi.
 
 Embeddded systems mini project.
-Abdelrahman Bedier.
-Abdelrahman Nasser.
-Ahmed Hassan.
+Abdelrahman Bedier. ID:201400473
+Abdelrahman Nasser. ID:201500899
+Ahmed Hassan. ID:201501642
 
 Programs used:
 VScode in raspberry pi.
