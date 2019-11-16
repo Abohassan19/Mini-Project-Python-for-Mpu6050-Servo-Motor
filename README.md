@@ -6,17 +6,17 @@ Abdelrahman Bedier. ID:201400473
 Abdelrahman Nasser. ID:201500899
 Ahmed Hassan. ID:201501642
 
-Programs used:
+# Programs used:
 VScode in raspberry pi.
 python3.
 
-Libraries used:
+# Libraries used:
 python-pip.
 GPIO.
 smbus.
 MPU6050.
 
-How to Run the code:
+# How to Reproduce:
 First Enable I2C communication by writing this command in terminal:
 "sudo raspi-config".
 then choose Interfacing options then choose I2C then Enable it then reboot by this command:"sudo reboot".
@@ -35,7 +35,7 @@ Forth open folder UninterruptedAngleMeter and run the file AngleOMeter.py by com
 
 The Schematic is in the folder Images with a LCD if needed.
 
-Hardware Used:
+# Hardware Used:
 Raspberry Pi.
 MPU-6050 sensor.
 Jumper wires. 
@@ -44,4 +44,4 @@ Servo Motor.
 Keyboard and Mouse.
 Screen or LCD.
 
-Link to trial Video : https://drive.google.com/file/d/1NxxhI4pp12hGVc7G-3QvEobcQ61rng17/view?usp=sharing
+# Link to trial Video : https://drive.google.com/file/d/1NxxhI4pp12hGVc7G-3QvEobcQ61rng17/view?usp=sharing
